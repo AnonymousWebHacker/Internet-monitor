@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Internet Monitor
+Comment=Internet Monitor 4 Linux
+Exec=/opt/inetmon/main.sh
+Icon=/opt/inetmon/assets/icon.png
+Path=
+Terminal=true
+StartupNotify=true
